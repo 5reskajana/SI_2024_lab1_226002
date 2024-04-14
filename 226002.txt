@@ -1,0 +1,27 @@
+4. $ git init, за иницијализација на Git.
+5. $ git remote add origin https://github.com/5reskajana/SI_2024_lab1_226002, поврзување со оддалечен репозиториум.
+6. $ type nul > README.md, креирање на README.md
+   $ git add README.md
+   $ git commit -m "Initial commit", додавање и commit на фајлот.
+7. Откако ги презедов фајловите направив $ git add *.java и $ git commit -m "Add starter code" за да ги додадам и да направам commit.
+8. $ git push --all origin, за синхронизирање со оддалечениот репозиториум.
+9. $ git branch bug1,  $ git branch bug1 за отварање на дветѕе гранки.
+10. $ git checkout bug1, се префрлам на гранката bug1.
+11. Ја поправив грешката во кодот и направив $ git add *.java и $ git commit -m "Fix wrong condition in filterOddLengthStrings".
+12. $ git checkout bug2, се префрлам на гранката bug2.
+13. Ја поправив грешката во кодот и направив $ git add *.java и $ git commit -m "Fix wrong condition in makeBigStringFrom".
+14. $ git checkout bug1, се враќам на гранката bug1.
+15. Го додадов кодот во SILab1Main и направив $ git add *.java и $ git commit -m " Call method filterOddLengthStrings in main class".
+16. $ git checkout bug2, се враќам на гранката bug2.
+17. Го додадов кодот во SILab1Main и направив $ git add *.java и $ git commit -m " Call method makeBigStringFrom in main class".
+18. $ git push --all origin, за синхронизирање со оддалечениот репозиториум.
+19. $ git checkout master, се префрлам на гранката мастер.
+20. $ git merge bug1, спојувањето се случува fast-forward.
+21. $ git push --all origin, за синхронизирање со оддалечениот репозиториум.
+22. $ git checkout bug2, се враќам на гранката bug2.
+23. $ git rebase master, има конфликт, го решавам со изменување на SILab1Main на гранката bug2. Спојувањето се одвива рекурзивно.
+24. $ git checkout master, се префрлам на гранката мастер.
+25. $ git merge bug2, спојувањето се случува fast-forward.
+26/27. $ git push --all origin, за синхронизирање со оддалечениот репозиториум.
+28. $ nano logs.txt, за креирање фајл каде ќе ги запишам сите logs, $ git add . кој ќе ги додаде двата фајла и на крај $ git commit -m "Final commit".
+29. $ git push --all origin, за синхронизирање со оддалечениот репозиториум.

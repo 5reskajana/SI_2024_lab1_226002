@@ -1,0 +1,203 @@
+commit 02f9997dcdfe1c06c61f23f3dd7f92e942011cf7 (HEAD -> master, origin/master)
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 19:21:32 2024 +0200
+
+    FInal changes
+
+commit 3ba39f50a1439adad80f1d9bacd7e04ce452e481
+Merge: b06d2af 62c5816
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 18:42:13 2024 +0200
+
+    Fixing everything
+
+commit b06d2af89de2f5cefef6350c8719e5876428b7e8
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 17:20:54 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit e59334f0e3e839bc0e33b448ef9f769feed2ed65
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 17:04:20 2024 +0200
+commit 02f9997dcdfe1c06c61f23f3dd7f92e942011cf7 (HEAD -> master, origin/master)
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 19:21:32 2024 +0200
+
+    FInal changes
+
+commit 3ba39f50a1439adad80f1d9bacd7e04ce452e481
+Merge: b06d2af 62c5816
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 18:42:13 2024 +0200
+
+    Fixing everything
+
+commit b06d2af89de2f5cefef6350c8719e5876428b7e8
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 17:20:54 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit e59334f0e3e839bc0e33b448ef9f769feed2ed65
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 17:04:20 2024 +0200
+commit 02f9997dcdfe1c06c61f23f3dd7f92e942011cf7 (HEAD -> master, origin/master)
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 19:21:32 2024 +0200
+
+    FInal changes
+
+commit 3ba39f50a1439adad80f1d9bacd7e04ce452e481
+Merge: b06d2af 62c5816
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 18:42:13 2024 +0200
+
+    Fixing everything
+
+commit b06d2af89de2f5cefef6350c8719e5876428b7e8
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 17:20:54 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit e59334f0e3e839bc0e33b448ef9f769feed2ed65
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 17:04:20 2024 +0200
+
+    Fixing issues
+
+commit 62c5816017b38a376d1fbf348cd3ddb0a216cb05
+Merge: f8891d0 0a5d14b
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 17:52:44 2024 +0200
+
+    Merge branch 'bug1'
+
+commit 11827879fe8cd87ff0e029651c46b3eba6379cfc
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 17:46:00 2024 +0200
+commit 02f9997dcdfe1c06c61f23f3dd7f92e942011cf7 (HEAD -> master, origin/master)
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 19:21:32 2024 +0200
+
+    FInal changes
+
+commit 3ba39f50a1439adad80f1d9bacd7e04ce452e481
+Merge: b06d2af 62c5816
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 18:42:13 2024 +0200
+
+    Fixing everything
+
+commit b06d2af89de2f5cefef6350c8719e5876428b7e8
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 17:20:54 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit e59334f0e3e839bc0e33b448ef9f769feed2ed65
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 17:04:20 2024 +0200
+commit 02f9997dcdfe1c06c61f23f3dd7f92e942011cf7 (HEAD -> master, origin/master)
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 19:21:32 2024 +0200
+
+    FInal changes
+
+commit 3ba39f50a1439adad80f1d9bacd7e04ce452e481
+Merge: b06d2af 62c5816
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 18:42:13 2024 +0200
+
+    Fixing everything
+
+commit b06d2af89de2f5cefef6350c8719e5876428b7e8
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 17:20:54 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit e59334f0e3e839bc0e33b448ef9f769feed2ed65
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 17:04:20 2024 +0200
+commit 02f9997dcdfe1c06c61f23f3dd7f92e942011cf7 (HEAD -> master, origin/master)
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 19:21:32 2024 +0200
+
+    FInal changes
+
+commit 3ba39f50a1439adad80f1d9bacd7e04ce452e481
+Merge: b06d2af 62c5816
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 18:42:13 2024 +0200
+
+    Fixing everything
+
+commit b06d2af89de2f5cefef6350c8719e5876428b7e8
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 17:20:54 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit e59334f0e3e839bc0e33b448ef9f769feed2ed65
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 17:04:20 2024 +0200
+
+    Fixing issues
+
+commit 62c5816017b38a376d1fbf348cd3ddb0a216cb05
+Merge: f8891d0 0a5d14b
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 17:52:44 2024 +0200
+
+    Merge branch 'bug1'
+
+commit 11827879fe8cd87ff0e029651c46b3eba6379cfc
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 17:46:00 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 0a5d14b1a6551ea4560afd4c0616a675b39bb945 (origin/bug1, bug1)
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 17:35:46 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 1644dc967645788fd5925d3619f83a12079f0870
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 17:26:59 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 5574a13a06895a4bd857f21fbc60d66bdca46a68
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 17:20:54 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit f8891d00761773191c8657ce89a7d5e688c2fef6
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 17:04:20 2024 +0200
+
+    Fixing issues
+
+commit 4160637eae605a5bd6f9f5c22cf7a86a6f337573
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 15:52:34 2024 +0200
+
+    Modified java files
+
+commit c1b2801747ad8baf10128a0e60347aa28f1581d4
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Sun Apr 14 15:24:56 2024 +0200
+
+    Add starter code
+
+commit b84ec0e1a076ab6fe83a90ef0377cf7eee38d570
+Author: 5reskajana <petreskaj0@gmail.com>
+Date:   Fri Mar 29 18:48:54 2024 +0100
+
+    Initial commit
+
